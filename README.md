@@ -3,6 +3,7 @@ I'm Nikhil Patel, a junior studying computer science and mathematics at USC!
 <!-- insert something here -->
 
 💡 I'm currently working on:
+
 Sars.io: 
 WhatsPlots: 
 [nikhilpatel.me](nikhilpatel.me): My personal portfolio site.
