@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Nikhil Patel, a junior studying computer science and mathematics at USC!
-<!-- insert something here ..>
+<!-- insert something here -->
 
 💡 I'm currently working on:
 Sars.io: 
