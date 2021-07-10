@@ -5,7 +5,7 @@ I'm Nikhil Patel, a junior studying computer science and mathematics at USC!
 💡 I'm currently working on:
 
 Sars.io: 
-WhatsPlots: 
+Rave: 
 [nikhilpatel.me](nikhilpatel.me): My personal portfolio site.
 
 
@@ -14,6 +14,8 @@ WhatsPlots:
       
 
 📍 Pinned below are some of my past projects:
+
+
 <!--
 **NikhilAPatel/NikhilAPatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
