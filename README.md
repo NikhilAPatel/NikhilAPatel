@@ -5,9 +5,9 @@ I'm Nikhil Patel, a junior studying computer science and mathematics at USC!
 💡 I'm currently working on:
 
 <ul>
-      <li>Sars.io:</li>
+      <li>Sars.io: An online game made to demonstrate the effects and importance of social distancing in regards to mitigating the spread of COVID 19</li>
       <li>Rave:</li>
-      <li><a href="nikhilpatel.me">nikhilpatel.me</a>: My personal portfolio site.</li>
+      <li><a href="nikhilpatel.me">nikhilpatel.me</a>: My personal portfolio site</li>
 </ul>
 
 <br/>
