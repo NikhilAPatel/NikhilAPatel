@@ -15,7 +15,6 @@ I'm Nikhil Patel, a junior studying computer science and mathematics at USC!
 🛠️ Languages/Tools:
 
 <img src="https://github.com/NikhilAPatel/NikhilAPatel/blob/main/c++.png" width="25px">&nbsp;&nbsp;<img src="https://github.com/NikhilAPatel/NikhilAPatel/blob/main/python.png" width="25px">&nbsp;&nbsp;
-<img src="https://github.com/NikhilAPatel/NikhilAPatel/blob/main/c#.png" width="25px">&nbsp;&nbsp;
 <img src="https://github.com/NikhilAPatel/NikhilAPatel/blob/main/angular.png" width="25px">&nbsp;&nbsp;
 <img src="https://github.com/NikhilAPatel/NikhilAPatel/blob/main/ts.png" width="25px">
       
