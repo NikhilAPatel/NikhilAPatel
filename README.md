@@ -4,8 +4,10 @@ I'm Nikhil Patel, a junior studying computer science and mathematics at USC!
 
 💡 I'm currently working on:
 
-Sars.io: 
+Sars.io:
+
 Rave: 
+
 [nikhilpatel.me](nikhilpatel.me): My personal portfolio site.
 
 
