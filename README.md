@@ -7,7 +7,7 @@ I'm Nikhil Patel, a junior studying computer science and mathematics at USC!
 <ul>
       <li>Sars.io: An browser game made to demonstrate the effects and importance of social distancing in regards to mitigating the spread of COVID 19</li>
       <li>Rave: An online experience allowing friends to experience an AI-powered synchronized light show based on their current music</li>
-      <li><a href="nikhilpatel.me">nikhilpatel.me</a>: My personal portfolio site</li>
+      <li><a href="https://nikhilpatel.me">nikhilpatel.me</a>: My personal portfolio site</li>
 </ul>
 
 <br/>
