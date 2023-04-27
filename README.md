@@ -1,25 +1,15 @@
 ### Hi there 👋
-I'm Nikhil Patel, a junior studying computer science and mathematics at USC!
+I'm Nikhil Patel, a master's student studying computer science at UMich!
 <!-- insert something here -->
 <br/>
 💡 I'm currently working on:
 
 <ul>
-      <li>Sars.io: An browser game made to demonstrate the effects and importance of social distancing in regards to mitigating the spread of COVID 19</li>
-      <li>Rave: An online experience allowing friends to experience an ML-powered synchronized light show based on their current music</li>
-      <li><a href="https://nikhilpatel.me">nikhilpatel.me</a>: My personal portfolio site</li>
+      <li><b>AlphaMax</b>: A Proximal Policy Optimizing agent that captures asset price dynamics, market volatility, and non-linear relationships through Geometric Brownian Motion modeling, Kalman Filtering, and Fourier-Based Spectral Estimation.</li>
+      <li><b>AlphaTax</b>:A comprehensive machine learning pipeline that incorporates dimensionality reduction techniques and regressive models such as GARCH (Generalized Autoregressive Conditional Heteroscedasticity) and ARIMA (Autoregressive Integrated Moving Average) to construct a portfolio of stocks that accurately reflects the performance of a particular target stock with specific applications in Tax-Loss Harvesting.</li>
+      <li><a href="https://nikhilpatel.me">nikhilpatel.me</a>: My personal portfolio site.</li>
 </ul>
 
-<br/>
-
-🛠️ Languages/Tools:
-
-<img src="https://github.com/NikhilAPatel/NikhilAPatel/blob/main/c++.png" width="25px">&nbsp;&nbsp;
-<img src="https://github.com/NikhilAPatel/NikhilAPatel/blob/main/python.png" width="25px">&nbsp;&nbsp;
-<img src="https://github.com/NikhilAPatel/NikhilAPatel/blob/main/java.png" width="25px">&nbsp;&nbsp;
-<img src="https://github.com/NikhilAPatel/NikhilAPatel/blob/main/tensorflow.png" width="25px">&nbsp;&nbsp;
-
-      
 <br/>
 
 📍 Pinned below are some of my past projects:
